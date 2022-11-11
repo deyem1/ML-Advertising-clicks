@@ -1,2 +1,2 @@
 # ML-Advertising-clicks
- An Analysis an prediction of an advvertising dataset to predict if readers clicked on the AD or not
+ An Analysis and prediction of an advertising dataset to predict if readers will click on the AD or not
